@@ -12,7 +12,8 @@ public class Ejemplo{
 		System.out.println("cuarta linea ");
 		
 		System.out.println("quinta linea ");
-
+		
+		System.out.println("mensaje aleatorio ");
 
 	}
 
